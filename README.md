@@ -35,4 +35,6 @@ Here are some ideas to get you started:
     <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="image/react.png" alt="Tauri" height="100" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="image/ts.png" alt="Tauri" height="100" /></a>
     <a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="image/bun.png" alt="Tauri" height="100" /></a>
+    <a href="https://www.hdfgroup.org/solutions/hdf5/" target="_blank"><img style="margin: 10px" src="image/hdf5.png" alt="Tauri" height="100" /></a>
+    <a href="https://docs.rs/ndarray/latest/ndarray/" target="_blank"><img style="margin: 10px" src="image/ndarray.png" alt="Tauri" height="100" /></a>
 </div>
