@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...https://v2.tauri.app/
 -->
 
+## Skills
+
 <div>  
 	<a href="https://rust-lang.org/" target="_blank"><img style="margin: 10px" src="image/rust.png" alt="Rust" height="100" /></a>
-    <a href="https://www.w3.org/TR/webgpu/" target="_blank"><img style="margin: 10px" src="image/wgsl.png" alt="Rust" height="100" /></a>
-    <a href="https://v2.tauri.app/" target="_blank"><img style="margin: 10px" src="image/tauri.png" alt="Rust" height="100" /></a>
+    <a href="https://www.w3.org/TR/webgpu/" target="_blank"><img style="margin: 10px" src="image/wgsl.png" alt="Wgsl" height="100" /></a>
+    <a href="https://v2.tauri.app/" target="_blank"><img style="margin: 10px" src="image/tauri.png" alt="Tauri" height="100" /></a>
+    <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="image/react.png" alt="Tauri" height="100" /></a>
 </div>
