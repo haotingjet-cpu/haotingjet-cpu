@@ -8,6 +8,8 @@
 
 在 **rust** 中，我正在研究較底層的 wgpu 使用，快被搞煩了😅，除了 wgpu ，也嘗試過 tauri 但因為前端不太行所以也沒什麼結果，除了個人娛樂用的專案，為了研究也做過一些物理專案，如 FDTD 或蒙地卡羅模擬😂，反正就是和光學相關
 
+未來我希望加強我在前端部分的能力，像是 react 這種，或是一路 wgpu 黑下去
+
 <!--
 **haotingjet-cpu/haotingjet-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +32,6 @@ Here are some ideas to get you started:
     <a href="https://www.w3.org/TR/webgpu/" target="_blank"><img style="margin: 10px" src="image/wgsl.png" alt="Wgsl" height="100" /></a>
     <a href="https://v2.tauri.app/" target="_blank"><img style="margin: 10px" src="image/tauri.png" alt="Tauri" height="100" /></a>
     <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="image/react.png" alt="Tauri" height="100" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="image/ts.png" alt="Tauri" height="100" /></a>
+    <a href="https://bun.com/" target="_blank"><img style="margin: 10px" src="image/bun.png" alt="Tauri" height="100" /></a>
 </div>
