@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust                 2 hrs                 █████████████████████▒░░░   84.79 %
+TOML                 10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+Python               6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Markdown             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+jsonc                1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
