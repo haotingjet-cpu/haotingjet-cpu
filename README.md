@@ -1,4 +1,12 @@
-## Hi there 👋
+
+<center>
+</a><a href="https://www.instagram.com/dadadobe.dadada.bla?igsi=NDU0d2Zjbnhqc2Nl" target="_blank"><img src="https://img.shields.io/badge/instagram-%23FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px; margin-left: 0px;" />
+</center>
+
+## 哈囉我是 Howard
+哈囉我是 **Howard** 一個熱愛 programing 的台灣高中生，今年(2027)剛升高二，我使用過的程式語言有 rust, python, c++ 和 typescript, 而其中我最喜歡的是 **rust** 因為它自然的鍊式調用語法與精確的型別
+
+在 **rust** 中，我正在研究較底層的 wgpu 使用，快被搞煩了😅，除了 wgpu ，也嘗試過 tauri 但因為前端不太行所以也沒什麼結果，除了個人娛樂用的專案，為了研究也做過一些物理專案，如 FDTD 或蒙地卡羅模擬😂，反正就是和光學相關
 
 <!--
 **haotingjet-cpu/haotingjet-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
