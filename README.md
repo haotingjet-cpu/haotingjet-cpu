@@ -52,4 +52,5 @@ INI        5 mins                ▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![My GitHub stats](https://vercel.app)
+![Howard's GitHub stats](https://vercel.app)
+
