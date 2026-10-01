@@ -7,7 +7,7 @@
 ## 哈囉我是 Howard
 哈囉我是 **Howard** 一個熱愛 programing 的台灣高中生，今年(2027)剛升高二，我使用過的程式語言有 rust, python, c++ 和 typescript, 而其中我最喜歡的是 **rust** 因為它自然的鍊式調用語法與精確的型別
 
-在 **rust** 中，我正在研究較底層的 wgpu 使用，快被搞煩了😅，除了 wgpu ，也嘗試過 tauri 但因為前端不太行所以也沒什麼結果，也只有<a href="https://github.com/haotingjet-cpu/IdeforExam">IDEforExam</a>，除了個人娛樂用的專案，為了研究也做過一些物理專案，如 FDTD 或蒙地卡羅模擬😂，反正就是和光學相關
+在 **rust** 中，我正在研究較底層的 wgpu 使用，快被搞煩了😅，除了 wgpu ，也嘗試過 tauri 但因為前端不太行所以也沒什麼結果，也只有<a href="https://github.com/haotingjet-cpu/IdeforExam">IDEforExam</a>能說嘴了😅，除了個人娛樂用的專案，為了研究也做過一些物理專案，如 FDTD 或蒙地卡羅模擬😂，反正就是和光學相關
 
 未來我希望加強我在前端部分的能力，像是 Svelte 這種，或是一路 wgpu 黑下去
 
