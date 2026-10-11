@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       3 hrs 2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.27 %
-Rust         2 hrs 14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Python       2 hrs 5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-CSS          38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-TeX          35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Rust         5 hrs 3 mins          █████████▓░░░░░░░░░░░░░░░   38.25 %
+Svelte       3 hrs 2 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+Python       2 hrs 5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+CSS          38 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+TeX          35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
