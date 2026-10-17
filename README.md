@@ -52,5 +52,3 @@ TeX          47 mins               █▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![Howard's GitHub stats](https://vercel.app)
-
