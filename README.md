@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-Markdown     2 hrs 30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-JSON         1 hr 49 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-CSV          1 hr 35 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-Svelte       1 hr 32 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Rust         3 hrs 57 mins         ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+Markdown     2 hrs 30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+JSON         1 hr 55 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+CSV          1 hr 54 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+TeX          47 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
 ```
 
 <!--END_SECTION:waka-->
