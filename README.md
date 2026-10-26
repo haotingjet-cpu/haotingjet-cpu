@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust                 7 hrs 32 mins         ██████████████░░░░░░░░░░░   55.93 %
-Markdown             2 hrs 6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-PowerShell           1 hr 5 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Other                36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Python               35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Rust                 3 hrs 23 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
+Markdown             2 hrs 21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.60 %
+PowerShell           1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Python               41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Other                35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
