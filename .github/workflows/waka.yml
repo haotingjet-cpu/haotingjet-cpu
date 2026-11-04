@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   workflow_dispatch: # 允許手動觸發
-  schedule:
-    - cron: "0 0 * * *" # 每天早上自動跑
+  # schedule:
+  #   - cron: "0 0 * * *" # 每天早上自動跑
 
 jobs:
   update-readme:
