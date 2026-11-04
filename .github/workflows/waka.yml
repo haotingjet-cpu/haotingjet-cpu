@@ -1,16 +1,18 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # 允許手動觸發
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *" # 每天早上自動跑
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      # 切換為社群維護的新版套件，已完美修復 WakaTime API 403 錯誤
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LOC_PROJECTS: "false" # 如果不需要顯示各專案詳細時數，可設為 false
